@@ -1,0 +1,33 @@
+{
+    "faq": [
+      {
+        "question": "What is a stock?",
+        "answer": "A stock represents ownership in a company and constitutes a claim on part of the company's assets and earnings."
+      },
+      {
+        "question": "How do you buy stocks?",
+        "answer": "You can buy stocks through a brokerage account, either online or through a traditional broker."
+      },
+      {
+        "question": "What is the stock market?",
+        "answer": "The stock market is a collection of markets where stocks (pieces of ownership in businesses) are bought and sold."
+      },
+      {
+        "question": "What is a stock ticker symbol?",
+        "answer": "A stock ticker symbol is a unique series of letters assigned to a security or stock for trading purposes."
+      },
+      {
+        "question": "What is a dividend?",
+        "answer": "A dividend is a portion of a company's earnings that is paid to shareholders, typically on a quarterly basis."
+      },
+      {
+        "question": "What is a bear market?",
+        "answer": "A bear market is a period of declining stock prices, typically defined as a decline of 20% or more from recent highs."
+      },
+      {
+        "question": "What is a bull market?",
+        "answer": "A bull market is a period of rising stock prices, often characterized by a rise of 20% or more from recent lows."
+      }
+    ]
+  }
+  
